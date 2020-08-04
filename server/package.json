@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start:server": "ENVIRONMENT=development nodemon -L src/server"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "helmet": "^3.23.3",
+    "mongoose": "^5.9.13",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.3"
+  }
+}
