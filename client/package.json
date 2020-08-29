@@ -18,6 +18,8 @@
     "process": "node run/txt2json.js"
   },
   "dependencies": {
+    "@bojangles/allcities": "0.0.2",
+    "@bojangles/txt2json": "0.0.1",
     "axios": "^0.19.0",
     "bootstrap": "^4.5.2",
     "clsx": "^1.1.1",
