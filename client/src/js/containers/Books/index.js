@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-
-import { BooksForm, BooksTable } from '../../components/Books';
+import { BooksForm, BooksTable } from 'components/Books';
 
 export default class Books extends Component {
   render() {
     return (
-      <div>
+      <div className="books">
         <h1>Simple Book Store</h1>
         <h3>Enter New Book</h3>
         <BooksForm />

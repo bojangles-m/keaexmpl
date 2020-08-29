@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: $background-color-main;
+  color: $font-color-main;
+  font-size: $font-main-size;
+}
+
+button,
+input {
+  outline: 0;
+  box-shadow: none;
+}
+
+#root {
+  height: 100%;
+}

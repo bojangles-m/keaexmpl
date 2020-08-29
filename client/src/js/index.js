@@ -5,7 +5,7 @@ import { BrowserRouter } from 'react-router-dom';
 import { getContext } from 'kea'; // 👈 add this
 import App from './containers/App';
 
-import 'index.css';
+import 'index.scss';
 
 ReactDOM.render(
   <BrowserRouter>

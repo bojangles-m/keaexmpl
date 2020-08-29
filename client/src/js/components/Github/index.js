@@ -23,7 +23,7 @@ export const GithubData = () => {
   return (
     <div>
       {isLoading ? (
-        <div>Loading...</div>
+        <div>Loading ...</div>
       ) : sortedRepositories.length > 0 ? (
         <div>
           Found {sortedRepositories.length} repositories for user {username}!

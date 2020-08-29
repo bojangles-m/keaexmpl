@@ -1,7 +1,7 @@
-import {apiUri} from './helpers';
+import { makeUri } from './helpers';
 import axios from 'axios';
 
-const API_URI = apiUri(__ENV__);
+const API_URI = makeUri(__ENV__.API);
 
 const get = (path, options = {}) => {
   const url = API_URI + path;

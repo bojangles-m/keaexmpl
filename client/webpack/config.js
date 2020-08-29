@@ -38,7 +38,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const plugins = [
   new CopyPlugin({
-    patterns: [{from: paths.img, to: 'img'}],
+    patterns: [{ from: paths.img, to: 'img' }],
   }),
   new HtmlWebpackPlugin({
     template: path.join(paths.src, 'index.html'),
@@ -66,8 +66,6 @@ const plugins = [
 // Necessary for file changes inside the bind mount to get picked up
 // --------------
 const watchOptions = {
-  // aggregateTimeout: 300,
-  // poll: true,
   ignored: ['**/*.test.js', 'node_modules'],
 };
 
@@ -76,7 +74,7 @@ const watchOptions = {
 // ----------
 
 const resolve = {
-  modules: ['node_modules', paths.assets, paths.css],
+  modules: ['node_modules', paths.js, paths.assets, paths.css],
 };
 
 // ----------
@@ -100,8 +98,8 @@ const stats = {
 // --------------
 const devServer = {
   contentBase: ENV.IS_PRODUCTION ? paths.build : paths.src,
-  port: ENV.CLIENT_PORT,
-  host: ENV.CLIENT_HOST,
+  port: ENV.CLIENT.PORT,
+  host: ENV.CLIENT.HOST,
   hot: ENV.IS_PRODUCTION, // Activate hot loading on DEV environment
   historyApiFallback: true, // Webpack Dev Server to redirect all server requests to index.html.
   compress: ENV.IS_PRODUCTION,
@@ -114,7 +112,10 @@ const devServer = {
   stats, // This option lets you precisely control what bundle information gets displayed.
 };
 
-module.exports = {
+// --------------
+// EXPORT
+// --------------
+const config = {
   context: paths.js, // The base directory, an absolute path, for resolving entry points
   mode: ENV.IS_PRODUCTION ? 'production' : 'development',
   devtool: ENV.IS_PRODUCTION ? false : 'source-map',
@@ -147,3 +148,5 @@ module.exports = {
     },
   },
 };
+
+module.exports = config;
