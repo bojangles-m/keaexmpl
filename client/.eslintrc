@@ -31,13 +31,3 @@
   },
   "settings": { "ecmascript": 6 }
 }
-
-// globals: {
-//     "mount": false,
-//     "UE": false,
-//     "grecaptcha": false,
-//     "shallow": true,
-//     "google": true,
-//     "ym": true,
-//     "tinymce": true
-// }

@@ -1,5 +1,5 @@
 import { kea } from 'kea';
-import axios from 'axios';
+import axios from './axios';
 
 export const logic = kea({
   actions: {
@@ -43,12 +43,10 @@ export const logic = kea({
     setUsername: async ({ username }, breakpoint) => {
       await breakpoint(400); // 👈 debounce for 400ms
 
-      const url = `${__ENV__.API_GITHUB_URL}/users/${username}/repos`;
-
       // 👈 handle network errors
       let response;
       try {
-        response = await axios.get(url);
+        response = await axios.get(`/users/${username}/repos`);
       } catch (error) {
         // actions.setFetchError(error.message);
         actions.setFetchError('Not found');

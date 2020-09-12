@@ -40,12 +40,12 @@ const BooksData = ({ books, onEdit, onRemove }) => (
         <td>{book.title}</td>
         <td>{book.author}</td>
         <td>
-          <button type="button" onClick={() => onEdit(i)}>
+          <button type="button" onClick={() => onEdit(book._id)}>
             Edit
           </button>
         </td>
         <td>
-          <button type="button" onClick={() => onRemove(i)}>
+          <button type="button" onClick={() => onRemove(book._id)}>
             Delete
           </button>
         </td>

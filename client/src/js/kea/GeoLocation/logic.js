@@ -1,6 +1,5 @@
 import { kea } from 'kea';
-import { geoFindMe, geoLoc } from 'lib/helpers';
-import { nearByCities } from './helpers';
+import { geoFindMe, geoLoc, nearByCities } from './helpers';
 const allCities = require(`cities/cities5000.json`);
 
 export const logic = kea({

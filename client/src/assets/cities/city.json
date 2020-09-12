@@ -1,0 +1,2498 @@
+[
+    {
+        "id": 33,
+        "region": {
+            "id": 7,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Calgary/South",
+            "code": "calgary",
+            "active": true,
+            "sortOrder": 5
+        },
+        "name": "Airdrie",
+        "code": "airdrie",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 51.2917005,
+        "longitude": -114.0143635
+    },
+    {
+        "id": 34,
+        "region": {
+            "id": 7,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Calgary/South",
+            "code": "calgary",
+            "active": true,
+            "sortOrder": 5
+        },
+        "name": "Banff/Canmore",
+        "code": "banff",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 51.1783629,
+        "longitude": -115.5707694
+    },
+    {
+        "id": 89,
+        "region": {
+            "id": 24,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Central",
+            "code": "central-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Barrie",
+        "code": "barrie",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 44.3893556,
+        "longitude": -79.6903316
+    },
+    {
+        "id": 90,
+        "region": {
+            "id": 24,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Central",
+            "code": "central-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Belleville",
+        "code": "belleville",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 44.1627589,
+        "longitude": -77.3832315
+    },
+    {
+        "id": 75,
+        "region": {
+            "id": 22,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Greater Toronto Area",
+            "code": "greater-toronto",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Brampton",
+        "code": "brampton",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.7315479,
+        "longitude": -79.7624177
+    },
+    {
+        "id": 52,
+        "region": {
+            "id": 13,
+            "province": {
+                "id": 4,
+                "name": "Manitoba",
+                "code": "MB",
+                "active": true,
+                "timezone": "America/Winnipeg",
+                "sortOrder": 0
+            },
+            "name": "Brandon",
+            "code": "brandon",
+            "active": true,
+            "sortOrder": 11
+        },
+        "name": "Brandon",
+        "code": "brandon",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 49.848471,
+        "longitude": -99.9500904
+    },
+    {
+        "id": 81,
+        "region": {
+            "id": 23,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Western",
+            "code": "south-western-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Brantford-Woodstock",
+        "code": "brantford-woodstock",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.1393867,
+        "longitude": -80.2644254
+    },
+    {
+        "id": 5,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "Burnaby/NewWest",
+        "code": "burnaby-newwest",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 49.2488091,
+        "longitude": -122.9805104
+    },
+    {
+        "id": 17,
+        "region": {
+            "id": 7,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Calgary/South",
+            "code": "calgary",
+            "active": true,
+            "sortOrder": 5
+        },
+        "name": "Calgary",
+        "code": "calgary",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 51.0486151,
+        "longitude": -114.0708459
+    },
+    {
+        "id": 73,
+        "region": {
+            "id": 21,
+            "province": {
+                "id": 11,
+                "name": "Nova Scotia",
+                "code": "NS",
+                "active": true,
+                "timezone": "America/Halifax",
+                "sortOrder": 0
+            },
+            "name": "Nova Scotia",
+            "code": "nova-scotia",
+            "active": true,
+            "sortOrder": 19
+        },
+        "name": "Cape Breton - Sydney",
+        "code": "cape-breton",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 45.4216952,
+        "longitude": -75.6974492
+    },
+    {
+        "id": 26,
+        "region": {
+            "id": 5,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Interior",
+            "code": "interior",
+            "active": true,
+            "sortOrder": 3
+        },
+        "name": "Cariboo",
+        "code": "cariboo",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 52.4031805,
+        "longitude": -123.4553619
+    },
+    {
+        "id": 63,
+        "region": {
+            "id": 19,
+            "province": {
+                "id": 9,
+                "name": "Prince Edward Island",
+                "code": "PE",
+                "active": true,
+                "timezone": "America/Halifax",
+                "sortOrder": 0
+            },
+            "name": "Prince Edward Island",
+            "code": "prince-edward",
+            "active": true,
+            "sortOrder": 17
+        },
+        "name": "Charlottetown",
+        "code": "charlottetown",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 46.23824,
+        "longitude": -63.1310704
+    },
+    {
+        "id": 88,
+        "region": {
+            "id": 23,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Western",
+            "code": "south-western-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Chatham-Kent",
+        "code": "chatham-kent",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 42.4048028,
+        "longitude": -82.1910378
+    },
+    {
+        "id": 76,
+        "region": {
+            "id": 22,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Greater Toronto Area",
+            "code": "greater-toronto",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "City of Toronto",
+        "code": "city-toronto",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.653226,
+        "longitude": -79.3831843
+    },
+    {
+        "id": 24,
+        "region": {
+            "id": 4,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Vancouver Island",
+            "code": "vancouver-island",
+            "active": true,
+            "sortOrder": 2
+        },
+        "name": "Comox Valley",
+        "code": "comox-valley",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 49.6735133,
+        "longitude": -124.9282659
+    },
+    {
+        "id": 94,
+        "region": {
+            "id": 25,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Eastern & Ottawa",
+            "code": "south-eastern-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Cornwall",
+        "code": "cornwall",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 45.0212762,
+        "longitude": -74.730345
+    },
+    {
+        "id": 6,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "Delta/Surrey/Langley",
+        "code": "delta-surrey-langley",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 49.0952155,
+        "longitude": -123.0264758
+    },
+    {
+        "id": 69,
+        "region": {
+            "id": 20,
+            "province": {
+                "id": 10,
+                "name": "New Brunswick",
+                "code": "NB",
+                "active": true,
+                "timezone": "America/Moncton",
+                "sortOrder": 0
+            },
+            "name": "New Brunswick",
+            "code": "new-brunswick",
+            "active": true,
+            "sortOrder": 18
+        },
+        "name": "Dieppe",
+        "code": "dieppe",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 46.0952765,
+        "longitude": -64.7486638
+    },
+    {
+        "id": 77,
+        "region": {
+            "id": 22,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Greater Toronto Area",
+            "code": "greater-toronto",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Durham Region",
+        "code": "durham",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.9368383,
+        "longitude": -78.9288242
+    },
+    {
+        "id": 18,
+        "region": {
+            "id": 8,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Edmonton/Central",
+            "code": "edmonton",
+            "active": true,
+            "sortOrder": 6
+        },
+        "name": "Edmonton",
+        "code": "edmonton",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 53.544389,
+        "longitude": -113.4909267
+    },
+    {
+        "id": 50,
+        "region": {
+            "id": 9,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Regina",
+            "code": "regina",
+            "active": true,
+            "sortOrder": 7
+        },
+        "name": "Estevan",
+        "code": "estevan",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 49.1390842,
+        "longitude": -102.9914806
+    },
+    {
+        "id": 42,
+        "region": {
+            "id": 12,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Northern Alberta",
+            "code": "north-alberta",
+            "active": true,
+            "sortOrder": 10
+        },
+        "name": "Fort McMurray",
+        "code": "mcmurray",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 56.7263796,
+        "longitude": -111.3803407
+    },
+    {
+        "id": 39,
+        "region": {
+            "id": 8,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Edmonton/Central",
+            "code": "edmonton",
+            "active": true,
+            "sortOrder": 6
+        },
+        "name": "Fort Saskatchewan",
+        "code": "saskatchewan",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 52.9399159,
+        "longitude": -106.4508639
+    },
+    {
+        "id": 8,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "Fraser Valley",
+        "code": "fraser-valley",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 59.717115,
+        "longitude": -135.049219
+    },
+    {
+        "id": 68,
+        "region": {
+            "id": 20,
+            "province": {
+                "id": 10,
+                "name": "New Brunswick",
+                "code": "NB",
+                "active": true,
+                "timezone": "America/Moncton",
+                "sortOrder": 0
+            },
+            "name": "New Brunswick",
+            "code": "new-brunswick",
+            "active": true,
+            "sortOrder": 18
+        },
+        "name": "Fredericton",
+        "code": "fredericton",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 45.9635895,
+        "longitude": -66.6431151
+    },
+    {
+        "id": 43,
+        "region": {
+            "id": 12,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Northern Alberta",
+            "code": "north-alberta",
+            "active": true,
+            "sortOrder": 10
+        },
+        "name": "Grande Prairie",
+        "code": "grande_prairie",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 55.1699396,
+        "longitude": -118.7986152
+    },
+    {
+        "id": 82,
+        "region": {
+            "id": 23,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Western",
+            "code": "south-western-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Guelph",
+        "code": "guelph",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.5448048,
+        "longitude": -80.2481666
+    },
+    {
+        "id": 72,
+        "region": {
+            "id": 21,
+            "province": {
+                "id": 11,
+                "name": "Nova Scotia",
+                "code": "NS",
+                "active": true,
+                "timezone": "America/Halifax",
+                "sortOrder": 0
+            },
+            "name": "Nova Scotia",
+            "code": "nova-scotia",
+            "active": true,
+            "sortOrder": 19
+        },
+        "name": "Halifax",
+        "code": "halifax",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 44.6487635,
+        "longitude": -63.5752387
+    },
+    {
+        "id": 74,
+        "region": {
+            "id": 21,
+            "province": {
+                "id": 11,
+                "name": "Nova Scotia",
+                "code": "NS",
+                "active": true,
+                "timezone": "America/Halifax",
+                "sortOrder": 0
+            },
+            "name": "Nova Scotia",
+            "code": "nova-scotia",
+            "active": true,
+            "sortOrder": 19
+        },
+        "name": "Halifax - Other Areas",
+        "code": "halifax-other",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 44.6487635,
+        "longitude": -63.5752387
+    },
+    {
+        "id": 98,
+        "region": {
+            "id": 27,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Hamilton/Niagra (South)",
+            "code": "hamilton-niagara",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Hamilton",
+        "code": "hamilton",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.2557206,
+        "longitude": -79.8711024
+    },
+    {
+        "id": 57,
+        "region": {
+            "id": 16,
+            "province": {
+                "id": 7,
+                "name": "Nunavut",
+                "code": "NU",
+                "active": true,
+                "timezone": "America/Iqaluit",
+                "sortOrder": 0
+            },
+            "name": "Nunavut",
+            "code": "nunavut",
+            "active": true,
+            "sortOrder": 14
+        },
+        "name": "Iqaluit",
+        "code": "iqaluit",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 63.746693,
+        "longitude": -68.5169669
+    },
+    {
+        "id": 41,
+        "region": {
+            "id": 8,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Edmonton/Central",
+            "code": "edmonton",
+            "active": true,
+            "sortOrder": 6
+        },
+        "name": "Jasper",
+        "code": "jasper",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 52.8736786,
+        "longitude": -118.0813581
+    },
+    {
+        "id": 12,
+        "region": {
+            "id": 5,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Interior",
+            "code": "interior",
+            "active": true,
+            "sortOrder": 3
+        },
+        "name": "Kamloops",
+        "code": "kamloops",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 50.674522,
+        "longitude": -120.3272675
+    },
+    {
+        "id": 13,
+        "region": {
+            "id": 5,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Interior",
+            "code": "interior",
+            "active": true,
+            "sortOrder": 3
+        },
+        "name": "Kelowna/Okanagan",
+        "code": "kelowna-okanagan",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 49.8879519,
+        "longitude": -119.4960106
+    },
+    {
+        "id": 93,
+        "region": {
+            "id": 25,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Eastern & Ottawa",
+            "code": "south-eastern-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Kingston",
+        "code": "kingston",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 44.2311717,
+        "longitude": -76.4859544
+    },
+    {
+        "id": 83,
+        "region": {
+            "id": 23,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Western",
+            "code": "south-western-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Kitchener",
+        "code": "kitchener",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.4516395,
+        "longitude": -80.4925337
+    },
+    {
+        "id": 15,
+        "region": {
+            "id": 6,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Northern BC",
+            "code": "northern-bc",
+            "active": true,
+            "sortOrder": 4
+        },
+        "name": "Kootenays",
+        "code": "kootenays",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 50.9769367,
+        "longitude": -115.9592102
+    },
+    {
+        "id": 62,
+        "region": {
+            "id": 18,
+            "province": {
+                "id": 8,
+                "name": "Newfoundland",
+                "code": "NL",
+                "active": true,
+                "timezone": "America/St_Johns",
+                "sortOrder": 0
+            },
+            "name": "Labrador",
+            "code": "labrador",
+            "active": true,
+            "sortOrder": 16
+        },
+        "name": "LAB - Other Areas",
+        "code": "labrador-other",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 53.1355091,
+        "longitude": -57.6604364
+    },
+    {
+        "id": 61,
+        "region": {
+            "id": 18,
+            "province": {
+                "id": 8,
+                "name": "Newfoundland",
+                "code": "NL",
+                "active": true,
+                "timezone": "America/St_Johns",
+                "sortOrder": 0
+            },
+            "name": "Labrador",
+            "code": "labrador",
+            "active": true,
+            "sortOrder": 16
+        },
+        "name": "Labrador City",
+        "code": "labrador",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 53.1355091,
+        "longitude": -57.6604364
+    },
+    {
+        "id": 38,
+        "region": {
+            "id": 8,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Edmonton/Central",
+            "code": "edmonton",
+            "active": true,
+            "sortOrder": 6
+        },
+        "name": "Leduc",
+        "code": "leduc",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 53.2580126,
+        "longitude": -113.5502218
+    },
+    {
+        "id": 31,
+        "region": {
+            "id": 7,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Calgary/South",
+            "code": "calgary",
+            "active": true,
+            "sortOrder": 5
+        },
+        "name": "Lethbridge",
+        "code": "lethbridge",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 49.69349,
+        "longitude": -112.84184
+    },
+    {
+        "id": 40,
+        "region": {
+            "id": 8,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Edmonton/Central",
+            "code": "edmonton",
+            "active": true,
+            "sortOrder": 6
+        },
+        "name": "Lloydminster",
+        "code": "lloydminster",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 53.2779625,
+        "longitude": -110.0061451
+    },
+    {
+        "id": 46,
+        "region": {
+            "id": 10,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Saskatoon",
+            "code": "saskatoon",
+            "active": true,
+            "sortOrder": 8
+        },
+        "name": "Lloydminster2",
+        "code": "lloydminster2",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 53.2779625,
+        "longitude": -110.0061451
+    },
+    {
+        "id": 84,
+        "region": {
+            "id": 23,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Western",
+            "code": "south-western-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "London",
+        "code": "london",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 42.9849233,
+        "longitude": -81.2452768
+    },
+    {
+        "id": 106,
+        "region": {
+            "id": 22,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Greater Toronto Area",
+            "code": "greater-toronto",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Markham",
+        "code": "markham",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.8561002,
+        "longitude": -79.3370188
+    },
+    {
+        "id": 32,
+        "region": {
+            "id": 7,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Calgary/South",
+            "code": "calgary",
+            "active": true,
+            "sortOrder": 5
+        },
+        "name": "Medicine Hat",
+        "code": "medicine_hat",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 50.0405486,
+        "longitude": -110.6764257
+    },
+    {
+        "id": 70,
+        "region": {
+            "id": 20,
+            "province": {
+                "id": 10,
+                "name": "New Brunswick",
+                "code": "NB",
+                "active": true,
+                "timezone": "America/Moncton",
+                "sortOrder": 0
+            },
+            "name": "New Brunswick",
+            "code": "new-brunswick",
+            "active": true,
+            "sortOrder": 18
+        },
+        "name": "Miramichi",
+        "code": "miramichi",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 47.0295709,
+        "longitude": -65.5059061
+    },
+    {
+        "id": 78,
+        "region": {
+            "id": 22,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Greater Toronto Area",
+            "code": "greater-toronto",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Mississauga",
+        "code": "mississauga",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.5890452,
+        "longitude": -79.6441198
+    },
+    {
+        "id": 67,
+        "region": {
+            "id": 20,
+            "province": {
+                "id": 10,
+                "name": "New Brunswick",
+                "code": "NB",
+                "active": true,
+                "timezone": "America/Moncton",
+                "sortOrder": 0
+            },
+            "name": "New Brunswick",
+            "code": "new-brunswick",
+            "active": true,
+            "sortOrder": 18
+        },
+        "name": "Moncton",
+        "code": "moncton",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 46.0878165,
+        "longitude": -64.7782313
+    },
+    {
+        "id": 100,
+        "region": {
+            "id": 28,
+            "province": {
+                "id": 13,
+                "name": "Quebec",
+                "code": "QC",
+                "active": true,
+                "timezone": "America/Montreal",
+                "sortOrder": 0
+            },
+            "name": "Quebec",
+            "code": "quebec",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Montreal",
+        "code": "montreal",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 45.5016889,
+        "longitude": -73.567256
+    },
+    {
+        "id": 47,
+        "region": {
+            "id": 9,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Regina",
+            "code": "regina",
+            "active": true,
+            "sortOrder": 7
+        },
+        "name": "Moose Jaw",
+        "code": "moose_jaw",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 50.3915811,
+        "longitude": -105.5348562
+    },
+    {
+        "id": 11,
+        "region": {
+            "id": 4,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Vancouver Island",
+            "code": "vancouver-island",
+            "active": true,
+            "sortOrder": 2
+        },
+        "name": "Nanaimo",
+        "code": "nanaimo",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 49.1658836,
+        "longitude": -123.9400648
+    },
+    {
+        "id": 71,
+        "region": {
+            "id": 20,
+            "province": {
+                "id": 10,
+                "name": "New Brunswick",
+                "code": "NB",
+                "active": true,
+                "timezone": "America/Moncton",
+                "sortOrder": 0
+            },
+            "name": "New Brunswick",
+            "code": "new-brunswick",
+            "active": true,
+            "sortOrder": 18
+        },
+        "name": "NB - Other Areas",
+        "code": "nb-other",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 46.5653163,
+        "longitude": -66.4619164
+    },
+    {
+        "id": 60,
+        "region": {
+            "id": 17,
+            "province": {
+                "id": 8,
+                "name": "Newfoundland",
+                "code": "NL",
+                "active": true,
+                "timezone": "America/St_Johns",
+                "sortOrder": 0
+            },
+            "name": "Newfoundland",
+            "code": "newfoundland",
+            "active": true,
+            "sortOrder": 15
+        },
+        "name": "Newfoundland - Other Areas",
+        "code": "newfoundland-other",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 53.1355091,
+        "longitude": -57.6604364
+    },
+    {
+        "id": 99,
+        "region": {
+            "id": 27,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Hamilton/Niagra (South)",
+            "code": "hamilton-niagara",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Niagara Region",
+        "code": "niagara-region",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.0581645,
+        "longitude": -79.2902133
+    },
+    {
+        "id": 45,
+        "region": {
+            "id": 10,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Saskatoon",
+            "code": "saskatoon",
+            "active": true,
+            "sortOrder": 8
+        },
+        "name": "North Battleford",
+        "code": "north_battleford",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 52.7764752,
+        "longitude": -108.2974556
+    },
+    {
+        "id": 3,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "North Shore",
+        "code": "north-shore",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 56.130366,
+        "longitude": -106.346771
+    },
+    {
+        "id": 80,
+        "region": {
+            "id": 22,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Greater Toronto Area",
+            "code": "greater-toronto",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "North York",
+        "code": "york",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.6956787,
+        "longitude": -79.4503544
+    },
+    {
+        "id": 58,
+        "region": {
+            "id": 16,
+            "province": {
+                "id": 7,
+                "name": "Nunavut",
+                "code": "NU",
+                "active": true,
+                "timezone": "America/Iqaluit",
+                "sortOrder": 0
+            },
+            "name": "Nunavut",
+            "code": "nunavut",
+            "active": true,
+            "sortOrder": 14
+        },
+        "name": "Nunavut - Other Areas",
+        "code": "nunavut-other",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 70.2997711,
+        "longitude": -83.107577
+    },
+    {
+        "id": 56,
+        "region": {
+            "id": 15,
+            "province": {
+                "id": 6,
+                "name": "Northwest Territories",
+                "code": "NT",
+                "active": true,
+                "timezone": "America/Yellowknife",
+                "sortOrder": 0
+            },
+            "name": "Northwest Territories",
+            "code": "nw_territories",
+            "active": true,
+            "sortOrder": 13
+        },
+        "name": "NWT - Other Areas",
+        "code": "nwt-other",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 64.8255441,
+        "longitude": -124.8457334
+    },
+    {
+        "id": 79,
+        "region": {
+            "id": 22,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Greater Toronto Area",
+            "code": "greater-toronto",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Oakville",
+        "code": "oakville",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.467517,
+        "longitude": -79.6876659
+    },
+    {
+        "id": 92,
+        "region": {
+            "id": 25,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Eastern & Ottawa",
+            "code": "south-eastern-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Ottawa",
+        "code": "ottawa",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 45.4215296,
+        "longitude": -75.6971931
+    },
+    {
+        "id": 85,
+        "region": {
+            "id": 23,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Western",
+            "code": "south-western-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Owen Sound",
+        "code": "owen-sound",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 44.5690305,
+        "longitude": -80.9405602
+    },
+    {
+        "id": 16,
+        "region": {
+            "id": 6,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Northern BC",
+            "code": "northern-bc",
+            "active": true,
+            "sortOrder": 4
+        },
+        "name": "Peace River Country",
+        "code": "peace-river-country",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 43.6704433,
+        "longitude": -79.381793
+    },
+    {
+        "id": 65,
+        "region": {
+            "id": 19,
+            "province": {
+                "id": 9,
+                "name": "Prince Edward Island",
+                "code": "PE",
+                "active": true,
+                "timezone": "America/Halifax",
+                "sortOrder": 0
+            },
+            "name": "Prince Edward Island",
+            "code": "prince-edward",
+            "active": true,
+            "sortOrder": 17
+        },
+        "name": "PEI - Other Areas",
+        "code": "prince-edward-other",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 46.5590135,
+        "longitude": -84.5238307
+    },
+    {
+        "id": 91,
+        "region": {
+            "id": 24,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Central",
+            "code": "central-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Peterborough",
+        "code": "peterborough",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 44.309058,
+        "longitude": -78.319747
+    },
+    {
+        "id": 28,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "Port Moody",
+        "code": "port-moody",
+        "active": false,
+        "sortOrder": 5,
+        "latitude": 49.2888923,
+        "longitude": -123.1103833
+    },
+    {
+        "id": 44,
+        "region": {
+            "id": 10,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Saskatoon",
+            "code": "saskatoon",
+            "active": true,
+            "sortOrder": 8
+        },
+        "name": "Prince Albert",
+        "code": "prince_albert",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 53.2033494,
+        "longitude": -105.7530705
+    },
+    {
+        "id": 14,
+        "region": {
+            "id": 6,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Northern BC",
+            "code": "northern-bc",
+            "active": true,
+            "sortOrder": 4
+        },
+        "name": "Prince George",
+        "code": "prince-george",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 46.5590135,
+        "longitude": -84.5238307
+    },
+    {
+        "id": 101,
+        "region": {
+            "id": 28,
+            "province": {
+                "id": 13,
+                "name": "Quebec",
+                "code": "QC",
+                "active": true,
+                "timezone": "America/Montreal",
+                "sortOrder": 0
+            },
+            "name": "Quebec",
+            "code": "quebec",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Quebec City",
+        "code": "quebec-city",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 52.9399159,
+        "longitude": -73.5491361
+    },
+    {
+        "id": 35,
+        "region": {
+            "id": 8,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Edmonton/Central",
+            "code": "edmonton",
+            "active": true,
+            "sortOrder": 6
+        },
+        "name": "Red Deer",
+        "code": "red_deer",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 52.2681118,
+        "longitude": -113.8112386
+    },
+    {
+        "id": 19,
+        "region": {
+            "id": 9,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Regina",
+            "code": "regina",
+            "active": true,
+            "sortOrder": 7
+        },
+        "name": "Regina",
+        "code": "regina",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 50.4452112,
+        "longitude": -104.6188943
+    },
+    {
+        "id": 4,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "Richmond",
+        "code": "richmond",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 49.1665898,
+        "longitude": -123.133569
+    },
+    {
+        "id": 66,
+        "region": {
+            "id": 20,
+            "province": {
+                "id": 10,
+                "name": "New Brunswick",
+                "code": "NB",
+                "active": true,
+                "timezone": "America/Moncton",
+                "sortOrder": 0
+            },
+            "name": "New Brunswick",
+            "code": "new-brunswick",
+            "active": true,
+            "sortOrder": 18
+        },
+        "name": "Saint John",
+        "code": "saint-john",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 45.2733153,
+        "longitude": -66.063308
+    },
+    {
+        "id": 102,
+        "region": {
+            "id": 28,
+            "province": {
+                "id": 13,
+                "name": "Quebec",
+                "code": "QC",
+                "active": true,
+                "timezone": "America/Montreal",
+                "sortOrder": 0
+            },
+            "name": "Quebec",
+            "code": "quebec",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Saquenay",
+        "code": "saquenay",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 48.4280529,
+        "longitude": -71.0684923
+    },
+    {
+        "id": 86,
+        "region": {
+            "id": 23,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Western",
+            "code": "south-western-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Sarnia",
+        "code": "sarnia",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 42.974536,
+        "longitude": -82.4065901
+    },
+    {
+        "id": 20,
+        "region": {
+            "id": 8,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Edmonton/Central",
+            "code": "edmonton",
+            "active": true,
+            "sortOrder": 6
+        },
+        "name": "Saskatoon",
+        "code": "saskatoon",
+        "active": false,
+        "sortOrder": 5,
+        "latitude": 52.1332144,
+        "longitude": -106.6700458
+    },
+    {
+        "id": 21,
+        "region": {
+            "id": 10,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Saskatoon",
+            "code": "saskatoon",
+            "active": true,
+            "sortOrder": 8
+        },
+        "name": "Saskatoon2",
+        "code": "saskatoon2",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 52.1332144,
+        "longitude": -106.6700458
+    },
+    {
+        "id": 95,
+        "region": {
+            "id": 26,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Northern Ontario",
+            "code": "northern-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Sault Ste Marie",
+        "code": "sault-ste-marie",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 46.5136494,
+        "longitude": -84.3357526
+    },
+    {
+        "id": 103,
+        "region": {
+            "id": 28,
+            "province": {
+                "id": 13,
+                "name": "Quebec",
+                "code": "QC",
+                "active": true,
+                "timezone": "America/Montreal",
+                "sortOrder": 0
+            },
+            "name": "Quebec",
+            "code": "quebec",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Sherbrooke",
+        "code": "sherbrooke",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 45.4041718,
+        "longitude": -71.8929107
+    },
+    {
+        "id": 23,
+        "region": {
+            "id": 6,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Northern BC",
+            "code": "northern-bc",
+            "active": true,
+            "sortOrder": 4
+        },
+        "name": "Skeena-Bulkley",
+        "code": "skeena-bulkley",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 55.7566121,
+        "longitude": -127.9593038
+    },
+    {
+        "id": 37,
+        "region": {
+            "id": 8,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Edmonton/Central",
+            "code": "edmonton",
+            "active": true,
+            "sortOrder": 6
+        },
+        "name": "Spruce Grove",
+        "code": "spruce_grove",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 53.5427846,
+        "longitude": -113.9033673
+    },
+    {
+        "id": 36,
+        "region": {
+            "id": 8,
+            "province": {
+                "id": 2,
+                "name": "Alberta",
+                "code": "AB",
+                "active": true,
+                "timezone": "America/Edmonton",
+                "sortOrder": 0
+            },
+            "name": "Edmonton/Central",
+            "code": "edmonton",
+            "active": true,
+            "sortOrder": 6
+        },
+        "name": "St. Albert",
+        "code": "st_albert",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 53.6304753,
+        "longitude": -113.625642
+    },
+    {
+        "id": 59,
+        "region": {
+            "id": 17,
+            "province": {
+                "id": 8,
+                "name": "Newfoundland",
+                "code": "NL",
+                "active": true,
+                "timezone": "America/St_Johns",
+                "sortOrder": 0
+            },
+            "name": "Newfoundland",
+            "code": "newfoundland",
+            "active": true,
+            "sortOrder": 15
+        },
+        "name": "St. John's",
+        "code": "st-johns",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 47.5615096,
+        "longitude": -52.7125768
+    },
+    {
+        "id": 96,
+        "region": {
+            "id": 26,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Northern Ontario",
+            "code": "northern-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Sudbury",
+        "code": "sudbury",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 46.4917317,
+        "longitude": -80.993029
+    },
+    {
+        "id": 64,
+        "region": {
+            "id": 19,
+            "province": {
+                "id": 9,
+                "name": "Prince Edward Island",
+                "code": "PE",
+                "active": true,
+                "timezone": "America/Halifax",
+                "sortOrder": 0
+            },
+            "name": "Prince Edward Island",
+            "code": "prince-edward",
+            "active": true,
+            "sortOrder": 17
+        },
+        "name": "Summerside",
+        "code": "summerside",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 46.3933777,
+        "longitude": -63.7902331
+    },
+    {
+        "id": 25,
+        "region": {
+            "id": 4,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Vancouver Island",
+            "code": "vancouver-island",
+            "active": true,
+            "sortOrder": 2
+        },
+        "name": "Sunshine Coast",
+        "code": "sunshine-coast",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 51.1151858,
+        "longitude": -115.7632758
+    },
+    {
+        "id": 48,
+        "region": {
+            "id": 9,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Regina",
+            "code": "regina",
+            "active": true,
+            "sortOrder": 7
+        },
+        "name": "Swift Current",
+        "code": "swift_current",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 50.285069,
+        "longitude": -107.7971722
+    },
+    {
+        "id": 97,
+        "region": {
+            "id": 26,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Northern Ontario",
+            "code": "northern-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Thunder Bay",
+        "code": "thunder-bay",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 48.3808951,
+        "longitude": -89.2476823
+    },
+    {
+        "id": 7,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "Tricities/Pitt/Maple",
+        "code": "tricities-pitt-maple",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 43.494279,
+        "longitude": -80.5446874
+    },
+    {
+        "id": 104,
+        "region": {
+            "id": 28,
+            "province": {
+                "id": 13,
+                "name": "Quebec",
+                "code": "QC",
+                "active": true,
+                "timezone": "America/Montreal",
+                "sortOrder": 0
+            },
+            "name": "Quebec",
+            "code": "quebec",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Trois Rivieres",
+        "code": "trois-rivieres",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 46.342982,
+        "longitude": -72.5420716
+    },
+    {
+        "id": 1,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "Vancouver",
+        "code": "vancouver",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 49.2827291,
+        "longitude": -123.1207375
+    },
+    {
+        "id": 30,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "Vancouver Island",
+        "code": "vancouver-island",
+        "active": false,
+        "sortOrder": 5,
+        "latitude": 49.2827291,
+        "longitude": -123.1207375
+    },
+    {
+        "id": 105,
+        "region": {
+            "id": 22,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "Greater Toronto Area",
+            "code": "greater-toronto",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Vaughan",
+        "code": "vaughan",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 43.8372079,
+        "longitude": -79.508276
+    },
+    {
+        "id": 10,
+        "region": {
+            "id": 4,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Vancouver Island",
+            "code": "vancouver-island",
+            "active": true,
+            "sortOrder": 2
+        },
+        "name": "Victoria",
+        "code": "victoria",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 48.4284207,
+        "longitude": -123.3656444
+    },
+    {
+        "id": 51,
+        "region": {
+            "id": 9,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Regina",
+            "code": "regina",
+            "active": true,
+            "sortOrder": 7
+        },
+        "name": "Weyburn",
+        "code": "weyburn",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 49.6632836,
+        "longitude": -103.8532906
+    },
+    {
+        "id": 9,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "Whistler",
+        "code": "whistler",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 50.1163196,
+        "longitude": -122.9573563
+    },
+    {
+        "id": 29,
+        "region": {
+            "id": 3,
+            "province": {
+                "id": 1,
+                "name": "British Columbia",
+                "code": "BC",
+                "active": true,
+                "timezone": "America/Vancouver",
+                "sortOrder": 0
+            },
+            "name": "Metro Vancouver",
+            "code": "metro-vancouver",
+            "active": true,
+            "sortOrder": 1
+        },
+        "name": "White Rock",
+        "code": "white-rock",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 49.0253085,
+        "longitude": -122.802962
+    },
+    {
+        "id": 53,
+        "region": {
+            "id": 14,
+            "province": {
+                "id": 5,
+                "name": "Yukon",
+                "code": "YT",
+                "active": true,
+                "timezone": "America/Whitehorse",
+                "sortOrder": 0
+            },
+            "name": "Yukon",
+            "code": "yukon",
+            "active": true,
+            "sortOrder": 12
+        },
+        "name": "Whitehorse",
+        "code": "whitehorse",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 60.7211871,
+        "longitude": -135.0568448
+    },
+    {
+        "id": 87,
+        "region": {
+            "id": 23,
+            "province": {
+                "id": 12,
+                "name": "Ontario",
+                "code": "ON",
+                "active": true,
+                "timezone": "America/Toronto",
+                "sortOrder": 0
+            },
+            "name": "South Western",
+            "code": "south-western-ontario",
+            "active": true,
+            "sortOrder": 0
+        },
+        "name": "Windsor",
+        "code": "windsor",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 42.3149367,
+        "longitude": -83.0363633
+    },
+    {
+        "id": 22,
+        "region": {
+            "id": 11,
+            "province": {
+                "id": 4,
+                "name": "Manitoba",
+                "code": "MB",
+                "active": true,
+                "timezone": "America/Winnipeg",
+                "sortOrder": 0
+            },
+            "name": "Winnipeg",
+            "code": "winnipeg",
+            "active": true,
+            "sortOrder": 9
+        },
+        "name": "Winnipeg",
+        "code": "winnipeg",
+        "active": true,
+        "sortOrder": 5,
+        "latitude": 49.895136,
+        "longitude": -97.1383744
+    },
+    {
+        "id": 55,
+        "region": {
+            "id": 15,
+            "province": {
+                "id": 6,
+                "name": "Northwest Territories",
+                "code": "NT",
+                "active": true,
+                "timezone": "America/Yellowknife",
+                "sortOrder": 0
+            },
+            "name": "Northwest Territories",
+            "code": "nw_territories",
+            "active": true,
+            "sortOrder": 13
+        },
+        "name": "Yellowknife",
+        "code": "yellowknife",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 62.4539717,
+        "longitude": -114.3717887
+    },
+    {
+        "id": 49,
+        "region": {
+            "id": 9,
+            "province": {
+                "id": 3,
+                "name": "Saskatchewan",
+                "code": "SK",
+                "active": true,
+                "timezone": "America/Regina",
+                "sortOrder": 0
+            },
+            "name": "Regina",
+            "code": "regina",
+            "active": true,
+            "sortOrder": 7
+        },
+        "name": "Yorkton",
+        "code": "yorkton",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 51.2174482,
+        "longitude": -102.4739331
+    },
+    {
+        "id": 54,
+        "region": {
+            "id": 14,
+            "province": {
+                "id": 5,
+                "name": "Yukon",
+                "code": "YT",
+                "active": true,
+                "timezone": "America/Whitehorse",
+                "sortOrder": 0
+            },
+            "name": "Yukon",
+            "code": "yukon",
+            "active": true,
+            "sortOrder": 12
+        },
+        "name": "Yukon - Other Areas",
+        "code": "yukon-other",
+        "active": true,
+        "sortOrder": 0,
+        "latitude": 64.2823274,
+        "longitude": -135.0
+    }
+]

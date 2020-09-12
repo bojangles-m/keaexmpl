@@ -1,5 +1,5 @@
 import { kea } from 'kea';
-import request from '../../lib/request';
+import axios from './axios';
 
 export const logic = kea({
   actions: {
@@ -12,7 +12,7 @@ export const logic = kea({
     setBooks: books => ({ books }),
 
     saveBook: true,
-    editBook: i => ({ i }),
+    editBook: id => ({ id }),
     updateBook: id => ({ id }),
     removeBook: i => ({ i }),
 
@@ -80,7 +80,7 @@ export const logic = kea({
       const data = { title: values.title, author: values.author };
 
       try {
-        await request.post('/books', data);
+        await axios.post('/books', data);
 
         actions.clearForm();
         actions.loadBooks();
@@ -93,7 +93,7 @@ export const logic = kea({
       const data = { title: values.title, author: values.author };
 
       try {
-        await request.patch(`/books/${id}`, data);
+        await axios.patch(`/books/${id}`, data);
 
         actions.clearForm();
         actions.loadBooks();
@@ -104,7 +104,7 @@ export const logic = kea({
 
     loadBooks: async () => {
       try {
-        const res = await request.get('/books');
+        const res = await axios.get('/books');
 
         actions.setBooks(res.data.data);
       } catch (error) {
@@ -112,8 +112,8 @@ export const logic = kea({
       }
     },
 
-    editBook: ({ i }) => {
-      const { _id, title, author } = values.books[i];
+    editBook: ({ id }) => {
+      const { _id, title, author } = values.books.find(book => book._id == id);
       actions.setBookTitle(title);
       actions.setBookAuthor(author);
       actions.setBookId(_id);
@@ -123,7 +123,7 @@ export const logic = kea({
       const books = [...values.books];
 
       try {
-        await request.del(`/books/${books[i]._id}`);
+        await axios.del(`/books/${books[i]._id}`);
 
         actions.loadBooks();
       } catch (error) {

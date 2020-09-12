@@ -1,16 +1,17 @@
-upgrade: 
-	yarn --cwd server upgrade
-	yarn --cwd client upgrade
+upgrade:
+	npm --prefix client/ upgrade
+	npm --prefix server/ upgrade
 	
 install:
-	yarn --cwd server install
-	yarn --cwd client install
+	npm --prefix client/ install
+	npm --prefix server/ install
 
 runc:
-	yarn --cwd client start:client
+	npm run start:client --prefix client/
+
 runs:
-	yarn --cwd server start:server
+	npm run start:server --prefix server/
 
 build:
 	rm -rf client/build
-	yarn --cwd client build
+	npm --prefix client/ run build

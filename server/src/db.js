@@ -1,15 +1,24 @@
 const mongoose = require('mongoose');
-const {ENV} = require('./lib/helpers');
+const { ENV } = require('./lib/helpers');
 
 // mongoose options
 const options = {
   useNewUrlParser: true,
-  useFindAndModify: false,
   useCreateIndex: true,
+  useFindAndModify: false,
   useUnifiedTopology: true,
-  autoIndex: false,
+
+  // The maximum number of sockets the MongoDB driver will keep open for this connection
   poolSize: 10,
+
+  // automatically build indexes defined in your schema
+  // good for dev turn of for Production
+  autoIndex: false,
+
+  // when the driver is disconnected
+  // database operations will fail immediately
   bufferMaxEntries: 0,
+  bufferCommands: false,
 };
 
 // connect to mongo DB

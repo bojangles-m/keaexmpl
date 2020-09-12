@@ -2,8 +2,7 @@ const express = require('express');
 const helmet = require('helmet');
 const morgan = require('morgan');
 const cors = require('cors');
-const {ENV} = require('./lib/helpers');
-const allowHeaders = require('./middleware/allowHeaders');
+const { ENV } = require('./lib/helpers');
 
 // invoke an instance of express application
 const app = express();
@@ -13,9 +12,6 @@ app.set('view engine', 'ejs');
 
 // Our DB Configuration
 require('./db');
-
-// Init allowed headers Middleware
-app.use(allowHeaders);
 
 // HTTP request logger middleware for node.js
 app.use(morgan('dev'));
@@ -30,7 +26,7 @@ app.use(helmet());
 
 // Body Parser Middleware
 app.use(express.json());
-app.use(express.urlencoded({extended: false}));
+app.use(express.urlencoded({ extended: false }));
 
 // ----------------------------------------------------------
 // routings
